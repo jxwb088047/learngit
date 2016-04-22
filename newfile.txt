@@ -1,1 +1,5 @@
 I like git very much.
+
+Insert new line.
+
+Success or not.
